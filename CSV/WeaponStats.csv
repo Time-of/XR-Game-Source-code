@@ -1,0 +1,5 @@
+Name, Strength, AttackSpeed,Price
+Weapon_Gun_Pistol_Weak,3.8,350,5
+Weapon_Gun_AssaultRifle,2.75,1500,15
+Weapon_Gun_AssaultRifle_Heavy,4.5,880,35
+Weapon_Melee_Lightsaber_Yellow,12,5,10

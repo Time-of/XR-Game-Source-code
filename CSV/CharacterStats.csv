@@ -1,0 +1,25 @@
+Name, Strength, Defense, MaxHealth, MoveSpeed
+Player,1,5,100,0.8
+Enemy_Capsule_Weak_Green,2,5,7,2.5
+Enemy_Capsule_Weak_Blue,1,0,10,4
+Enemy_Capsule_Weak_Purple,0.5,75,13,2
+Enemy_Capsule_Normal_Green,3,35,13,2.5
+Enemy_Capsule_Normal_Blue,2,5,15,4
+Enemy_Capsule_Normal_Purple,1,125,14,1.5
+Enemy_Box_Normal_Yellow,3,25,21,2
+Enemy_Box_Normal_Red,4,15,15,2.5
+Enemy_Box_Strong_Yellow,3,100,20,2.5
+Enemy_Box_Strong_Red,5,45,45,2
+Enemy_Triangle_Strong_Green,3.3,500,35,1.25
+Enemy_Triangle_Strong_Red,7,500,25,2
+Enemy_Capsule_Strong_Green,4,55,50,2.5
+Enemy_Capsule_Strong_Blue,5,0,35,4
+Enemy_Capsule_Strong_Purple,2,75,65,2
+Enemy_Box_Super_Yellow,4,0,105,2
+Enemy_Box_Super_Green,6,35,110,2
+Enemy_Box_Super_Red,11,0,90,2.2
+Enemy_Triangle_Super_Purple,12,65,40,1.5
+Enemy_Capsule_Super_Blue,8,200,100,4.3
+Enemy_TEST,1,0,100000,0
+Enemy_Assassin,4,60,45,1.77
+Boss_Fortitude,6.4,1000,300,1.2

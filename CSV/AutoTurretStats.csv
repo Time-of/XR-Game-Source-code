@@ -1,0 +1,8 @@
+Name, Strength, AttackSpeed, Defense, MaxHealth, Cost, AttackRadius
+AutoTurret_Weak,2.9,0,5,50,10,5
+AutoTurret_Normal,3.7,50,15,75,25,5
+AutoTurret_Rare,12.2,150,35,125,50,5
+AutoTurret_Epic,6.1,1000,80,155,80,5.5
+AutoTurret_Legendary,22,300,155,165,120,6
+AutoTurret_Myth,76,0,300,190,180,6
+AutoTurret_Unreal,5,3000,500,230,250,6.5
